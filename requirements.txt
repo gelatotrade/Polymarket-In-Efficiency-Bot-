@@ -1,0 +1,52 @@
+# Core dependencies
+python-dotenv==1.0.0
+aiohttp==3.9.1
+asyncio==3.4.3
+requests==2.31.0
+
+# Polymarket CLOB Client
+py-clob-client==0.18.0
+
+# Web scraping for Chainlink price feeds
+selenium==4.16.0
+webdriver-manager==4.0.1
+beautifulsoup4==4.12.2
+lxml==5.1.0
+
+# Telegram Bot
+aiogram==3.3.0
+python-telegram-bot==20.7
+
+# Database
+sqlalchemy==2.0.23
+aiosqlite==0.19.0
+alembic==1.13.1
+
+# Data processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Web3 for Chainlink on-chain price feeds (backup)
+web3==6.13.0
+
+# Charts and visualization
+plotly==5.18.0
+kaleido==0.2.1
+
+# Cryptography
+eth-account==0.10.0
+eth-keys==0.4.0
+
+# Scheduling
+apscheduler==3.10.4
+
+# Logging
+loguru==0.7.2
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.23.2
+
+# Type hints
+pydantic==2.5.3
+pydantic-settings==2.1.0
